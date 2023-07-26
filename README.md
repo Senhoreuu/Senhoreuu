@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Java
 - 📫 How to reach me luizsimonetti888@gmail.com or Senhoreu on Discord
 
-<div style="display: inline-flex; justify-content: center; align-items: center;"><br>
+<div style="display: inline-flex; left: 50%;"><br>
   <img align="center" title="JavaScript" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <!--   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
 <!--   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
