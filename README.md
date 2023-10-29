@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Senhoreuu
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Backend
 - 📫 How to reach me luizsimonetti888@gmail.com or Senhoreu on Discord
 
 <div style="display: inline-flex; left: 50%;"><br>
