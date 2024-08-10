@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Senhoreuu
-- 🌱 I’m currently learning Backend
-- 📫 How to reach me luizsimonetti888@gmail.com or Senhoreu on Discord
+- 👋 Hi, I’m Luiz! I live in Brazil, and I’m 21 years old.
+- 🌱 Fullstack developer.
+- 📫 How to reach me: luizsimonetti888@gmail.com or Senhoreu on Discord
 
 <div style="display: inline-flex; left: 50%;"><br>
   <img align="center" title="JavaScript" alt="Senhoreu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
